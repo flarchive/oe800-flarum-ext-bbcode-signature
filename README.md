@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of oe800/flarum-ext-bbcode-signature.** Not for installation: use [Packagist](https://packagist.org/packages/oe800/flarum-ext-bbcode-signature) or the [upstream repository](https://github.com/0E800/flarum-ext-bbcode-signature).
 
-**0** versions archived · Latest: [`0.1.3`](https://github.com/flarchive/oe800-flarum-ext-bbcode-signature/tree/archive/v0.1.3) · Flarum: `^0.1.0-beta.6`
+**4** versions archived · Latest: [`0.1.3`](https://github.com/flarchive/oe800-flarum-ext-bbcode-signature/tree/archive/v0.1.3) · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2017-03-29 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/oe800-flarum-ext-bbcode-signature/tree/archive/v0.1.0) |
+| `0.1.1` | 2017-03-30 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/oe800-flarum-ext-bbcode-signature/tree/archive/v0.1.1) |
+| `0.1.2` | 2017-03-31 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/oe800-flarum-ext-bbcode-signature/tree/archive/v0.1.2) |
+| `0.1.3` | 2017-04-01 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/oe800-flarum-ext-bbcode-signature/tree/archive/v0.1.3) |
 
 Catalog entry: [packages/oe800-flarum-ext-bbcode-signature.json](https://github.com/flarchive/archive-index/blob/main/packages/oe800-flarum-ext-bbcode-signature.json)
 
